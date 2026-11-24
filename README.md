@@ -43,7 +43,7 @@ I believe in learning by doing and improving with every commit.
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isac-Ribeiro&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacribeiro&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isac-Ribeiro&layout=compact&theme=tokyonight" />
 </p>
 
 ---
