@@ -1,31 +1,31 @@
-# Hi 👋, I'm Isac Ribeiro
+# Olá 👋, sou Isac Ribeiro
 
-🚀 **Back-end focused developer | PHP, JavaScript & C**  
-🇧🇷 Brazil
+🚀 **Desenvolvedor focado em back-end | PHP, JavaScript e C**  
+🇧🇷 Brasil
 
-I'm building my foundation in **web development and programming logic**, with a focus on **clean code, good practices, and practical projects**.  
-I believe in learning by doing and improving with every commit.
-
----
-
-## 🎯 Current Focus
-
--   🐘 Back-end with **PHP**
--   🟨 Web development with **JavaScript**
--   ⚙️ Programming fundamentals with **C**
--   🛠️ Version control with **Git and GitHub**
+Estou construindo minha base em **desenvolvimento web e lógica de programação**, com foco em **código limpo, boas práticas e projetos práticos**.  
+Acredito em aprender fazendo e evoluir a cada commit.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Foco Atual
 
-### Languages
+-   🐘 Back-end com **PHP**
+-   🟨 Desenvolvimento web com **JavaScript**
+-   ⚙️ Fundamentos de programação com **C**
+-   🛠️ Controle de versão com **Git e GitHub**
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Tools
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -33,13 +33,13 @@ I believe in learning by doing and improving with every commit.
 
 ---
 
-## 🎓 Education
+## 🎓 Formação
 
--   Technical course in **Internet Computing** — ETEC (in progress)
+-   Curso Técnico em **Informática para Internet** — ETEC (em andamento)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isac-Ribeiro&show_icons=true&theme=tokyonight&count_private=true" />
@@ -48,11 +48,11 @@ I believe in learning by doing and improving with every commit.
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-> _"Learn by doing, improve with every commit, and build solutions that solve real problems."_
+> _"Aprenda fazendo, melhore a cada commit e construa soluções que resolvam problemas reais."_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Open to collaborations, feedback, and learning opportunities
+⭐ Se você gostar do meu trabalho, considere dar uma estrela em um repositório  
+🤝 Aberto a colaborações, feedbacks e oportunidades de aprendizado
